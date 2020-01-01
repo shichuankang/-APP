@@ -40,5 +40,5 @@
 | 在相册中快速找到含有某个人的照片  | 人脸搜索 | 重要 |
 | 快速了解视频内容 | 视频封面获取 | 次重要 |
 ## API使用
-[人脸搜索](https://cloud.baidu.com/product/face/search)
-[视频封面获取](https://cloud.baidu.com/product/video/vcs)
+* [人脸搜索](https://cloud.baidu.com/product/face/search)
+* [视频封面获取](https://cloud.baidu.com/product/video/vcs)
